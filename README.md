@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EDLLT
 - 👀 I’m interested in software development, android app development & linux-based systems
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning about ML and Python
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me https://edllt.github.io/CV/
 
