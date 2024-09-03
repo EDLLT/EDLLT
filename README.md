@@ -2,7 +2,9 @@
 - 👀 I’m interested in software development, android app development & linux-based systems
 - 🌱 I’m currently learning about ML and Python
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me https://edllt.github.io/CV/
+- 📫 How to reach me
+- Discord: @edllt
+- Email: edllt@protonmail.com
 
 <!---
 EDLLT/EDLLT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
