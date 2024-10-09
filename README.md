@@ -1,4 +1,4 @@
-- <img src="https://raw.githubusercontent.com/EDLLT/EDLLT/main/wave.gif" width="20px"> Hi, I’m @EDLLT
+- <img src="https://github.com/EDLLT/EDLLT/blob/main/wave.gif" width="20px"> Hi, I’m @EDLLT
 - 👀 I’m interested in software development, android app development & linux-based systems
 - 🌱 I’m currently learning about ML and Python
 - 💞️ I’m looking to collaborate on nothing at the moment
